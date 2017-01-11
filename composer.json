@@ -1,0 +1,14 @@
+{
+  "name": "Data/Crawler",
+  "type": "project",
+  "description": "Data website simple crawler",
+  "autoload": {
+    "psr-4": {
+      "B4B\\Library\\Crawler\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=7.0",
+    "phpunit/phpunit": "^5.6"
+  }
+}
